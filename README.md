@@ -2,10 +2,10 @@
 <h3 align="center">SDET | Automation Test Engineer | Selenium | Java | BDD | CI/CD</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/charantm28/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:charan.tm97@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -60,8 +60,8 @@
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: **YOUR-LINKEDIN**
-- 📧 Email: **YOUR-EMAIL**
+- 💼 LinkedIn: Charan T M 
+- 📧 Email: charantm.97@gmail.com
 - 💬 Ask me about **Selenium, Java, Testing Careers**
 
 ⭐ **If you like my work, give a star to my repositories!**
