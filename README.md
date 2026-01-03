@@ -60,7 +60,7 @@
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: Charan T M 
+- 💼 LinkedIn: [Charan T M ](https://www.linkedin.com/in/charantm28/)
 - 📧 Email: charantm.97@gmail.com
 - 💬 Ask me about **Selenium, Java, Testing Careers**
 
